@@ -31,3 +31,19 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 * [Weekendowa Akademia Testowania](https://testuj-new.s3.eu-central-1.amazonaws.com/AT_Harmonogram_pakiet_ekspert_weekendowa_5_00bef05a93.pdf)
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-5ac511ef-2a0f-4a32-8778-49ec414496b4/)
 
+## Internship
+
+* [Junior Manual Tester
+
+## Books
+* A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
+* R. Smilgin - Zawód tester
+
+## My test case examples
+
+## Test cases for site xyz.pl
+
+## My bug reports
+
+## Bugs reported for site xyz.pl
+
