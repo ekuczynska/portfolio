@@ -24,7 +24,8 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 ## Certificates
 
-[ISTQB](https://sjsi.org/)
+* [ISTQB](https://sjsi.org/)
+
 ## Courses
 
 * [Weekendowa Akademia Testowania](https://testuj-new.s3.eu-central-1.amazonaws.com/AT_Harmonogram_pakiet_ekspert_weekendowa_5_00bef05a93.pdf)
