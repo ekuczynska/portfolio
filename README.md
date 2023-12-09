@@ -23,4 +23,8 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 * Knowledge of ISTQB methodology
 
 ## Certificates
+
 [ISTQB](http://scr.istqb.org/) - No. CTFL3-2023-21223-SJSI
+
+## Courses
+[Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-5ac511ef-2a0f-4a32-8778-49ec414496b4/)
