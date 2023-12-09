@@ -9,8 +9,6 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool
 
-[Jira](https://www.atlassian.com/pl/software/jira)
-
 [TestLink](https://testlink.org/) - Web based test management and test execution system
 
 [Mantis](https://www.mantisbt.org/) - Bug tracking tool
