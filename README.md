@@ -24,8 +24,7 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 ## Certificates
 
-[ISTQB](http://scr.istqb.org/) - No. CTFL3-2023-21223-SJSI
-
+[ISTQB](https://sjsi.org/)
 ## Courses
 
 * [Weekendowa Akademia Testowania](https://testuj-new.s3.eu-central-1.amazonaws.com/AT_Harmonogram_pakiet_ekspert_weekendowa_5_00bef05a93.pdf)
