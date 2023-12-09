@@ -33,7 +33,7 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 ## Internship
 
-* [Junior Manual Tester
+* [Junior Manual Tester]
 
 ## Books
 * A. Roman, L. Stapp - Certyfikowany tester ISTQB. Poziom podstawowy
