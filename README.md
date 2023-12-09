@@ -5,8 +5,7 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 ## Tools
 
-[Postman](https://www.postman.com/) - Testing tool for REST API
-
+*[Postman](https://www.postman.com/) - Testing tool for REST API
 [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool
 TestLink - Web based test management and test execution system
 Mantis - Bug tracking tool
