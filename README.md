@@ -28,6 +28,6 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 ## Courses
 
-[Weekendowa Akademia Testowania](https://testuj.pl/)
-[Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-5ac511ef-2a0f-4a32-8778-49ec414496b4/)
+* [Weekendowa Akademia Testowania](https://testuj.pl/)
+* [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-5ac511ef-2a0f-4a32-8778-49ec414496b4/)
 
