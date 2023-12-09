@@ -14,4 +14,10 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 ## Skills
 
+* Software testing
 * Creating test cases
+* Bugs reporting
+* Knowledge of the SCRUM methodology
+* DevTools basics
+* Basics of API testing in the Postman tool
+* Knowledge of ISTQB methodology
