@@ -21,3 +21,6 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 * DevTools basics
 * Basics of API testing in the Postman tool
 * Knowledge of ISTQB methodology
+
+## Certificates
+[ISTQB](http://scr.istqb.org/) - 
