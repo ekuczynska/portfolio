@@ -28,6 +28,6 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 
 ## Courses
 
-* [Weekendowa Akademia Testowania](https://testuj.pl/)
+* [Weekendowa Akademia Testowania](https://testuj-new.s3.eu-central-1.amazonaws.com/AT_Harmonogram_pakiet_ekspert_weekendowa_5_00bef05a93.pdf)
 * [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/certificate/UC-5ac511ef-2a0f-4a32-8778-49ec414496b4/)
 
