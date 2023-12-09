@@ -6,7 +6,7 @@ My name is Ewelina Kuczyńska. I am a meticulous, conscientious and curious abou
 ## Tools
 
 * [Postman](https://www.postman.com/) - Testing tool for REST API
-* [Jira]([https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=151255109963&campaign=20389338852&creative=666706086652&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p77324634991&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6UnTFyB0_WtOOuEyd2TCswqxMivgoRykLKz5XrjYd6hdUlTwdOlUNMhoCxQ0QAvD_BwE&gclsrc=aw.ds)https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=151255109963&campaign=20389338852&creative=666706086652&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p77324634991&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=CjwKCAiAvdCrBhBREiwAX6-6UnTFyB0_WtOOuEyd2TCswqxMivgoRykLKz5XrjYd6hdUlTwdOlUNMhoCxQ0QAvD_BwE&gclsrc=aw.ds), [Trello](https://trello.com/) - Issue tracking and project management tool
+* [Jira](https://www.atlassian.com/pl/software/jira), [Trello](https://trello.com/) - Issue tracking and project management tool
 * [TestLink](https://testlink.org/) - Web based test management and test execution system
 * [Mantis](https://www.mantisbt.org/) - Bug tracking tool
 * [Miro](https://miro.com/pl/) - Mind mapping tool
